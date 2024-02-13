@@ -1,0 +1,1 @@
+This is a project showing that I have acquired basic web design skills through the odin project curriculum. I will demonstrate my HTML skills on this project.
